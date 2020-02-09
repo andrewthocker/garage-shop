@@ -1,0 +1,2 @@
+* tablesaw attached to end of worktable like in Paulk workbench
+	* stores out of the way when not needed
